@@ -8,24 +8,6 @@ Welcome to the Engineering Mathematics Documentation repository! This repository
 mindmap
   root((Engineering Mathematics))
         (Linear Algebra)
-        (Calculus)
-        (Vector Calculus)
-        (Differential Calculus)
-        (Complex variable)
-        (Probability and Statics)
-        (Fourier Series)
-        (Partial Differential Equation)
-              
-```
-
-## Table of Contents
--# [Introduction](#introduction)
-
-  - [1. Linear Algebra](https://drive.google.com/file/d/1Atd2nEjgSdHcKWqAQwRw5mc06zpl7uY8/view?usp=drivesdk)
-   ```mermaid
- mindmap
-  root((Engineering Mathematics))
-        (Linear Algebra)
             Algebra of Matrices
             Determinant
                 Adjoint
@@ -36,9 +18,73 @@ mindmap
             Eigen values & Eigen Vectors
                 Eigen values
                 Eigen Vector
-            Cayley-Hamilton Theorem
+            Cayley Hamilton Theorem
                 LU Decomposition
-    ```
+        (Calculus)
+            Limits,Continuity & Differentiability
+            Indeterminate forms
+            Mean Value Theorems
+            Taylor's Series
+            Maxima and Minima
+            Partial Derivatives
+                Chain Rule 
+                Homogeneous functions
+            Maxima and Minima for Two Variable functions
+            Integration and definite integrals
+            Application of Integration
+            Multiple integrals
+                change of order
+                change of variables
+        (Vector Calculus)
+            Vector Differentiation
+                Gradient
+                Divergence
+            Vector Integration
+                Green's Theorem
+                Stoke's Theorem
+                Gauss Divergence Theorem
+
+        (Differential Calculus)
+            Order and Digree
+            Formation
+            First order differential Equation
+            Exact differential equations
+            Linear and Bernoulli's equations
+            Higher order linear differential equations with constant coefficients
+            Linear differential equations with variable coefficients
+            
+        (Complex variable)
+            Complex Numbers
+            Complex Differentiation and Analytic functions
+            Taylor series and Laurent's Series
+            Types of Singularities and residues at singularities 
+            Complex Integration
+
+        (Probability and Statics)
+            Basic theory of Probability
+            Addition Theorem
+            Conditional Probability/Muliplication Theorem
+            Baye's Theorem
+            Statics
+            Random variables 
+                Expectation
+            Descrete Probability Distributions
+                Binomial Distribution
+                Poisson Distribution
+            Continuous Probability Distribution
+                Normal Distribution
+                Exponential Distribution
+                Uniform Distribution
+        (Fourier Series)
+        (Partial Differential Equation)
+            PDE
+            First Order Nonlinear PDE
+            Second Order Linear PDE classification
+```
+## Table of Contents
+-# [Introduction](#introduction)
+
+  - [1. Linear Algebra](https://drive.google.com/file/d/1Atd2nEjgSdHcKWqAQwRw5mc06zpl7uY8/view?usp=drivesdk)
   - [2. Calculus](https://drive.google.com/file/d/1FSp3CBMjMG_uGBgcsGpi9ZkCx5NEmWmz/view?usp=drivesdk)
   - [3. Vector Calculus](https://drive.google.com/file/d/1FRKe7Y3sZnsiGJt7zoHJMB4r9lvyfsnT/view?usp=drivesdk)
   - [4. Differential Equations](https://drive.google.com/file/d/1QOx9hfJ0vdnekRMJjQOp0qWArbm87iCK/view?usp=drivesdk)
